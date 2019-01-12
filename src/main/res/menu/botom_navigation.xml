@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+  <item
+      android:id="@+id/navigation_home"
+      android:title="HOME"
+      android:icon="@drawable/ic_home">
+
+  </item>
+
+    <item
+        android:id="@+id/navigation_profile"
+        android:title="PROFILE"
+        android:icon="@drawable/ic_profile">
+
+    </item>
+    <item
+        android:id="@+id/navigation_friend"
+        android:title="FRIENDS"
+        android:icon="@drawable/ic_group">
+
+    </item>
+    <item
+        android:id="@+id/navigation_menu"
+        android:title="MENU"
+        android:icon="@drawable/ic_menu">
+
+    </item>
+</menu>
